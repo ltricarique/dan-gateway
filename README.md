@@ -1,2 +1,2 @@
-# dan-discovery	
+# dan-gateway	
 Servidor API Gateway.
